@@ -29,3 +29,6 @@ gitignore
 /exercise2/data
 /exercise2/imgs/imgs.pptx
 /exercise2/imgs/~imgs.pptx
+
+# Exercise 3
+/results
